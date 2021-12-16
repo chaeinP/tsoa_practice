@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "../dist",
+    "baseUrl": "",
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "resolveJsonModule": true
+  }
+}
